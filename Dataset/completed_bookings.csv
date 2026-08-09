@@ -1,0 +1,41 @@
+booking_id,customer_id,customer_name,gender,age,city,customer_type,room_id,room_number,room_type,price_per_night,check_in,check_out,stay_days,guests,booking_channel,booking_status,payment_method,payment_status,revenue,rating,cleanliness_rating,service_rating,year,month,month_name,weekday
+1,1,Arun Kumar,Male,28,Chennai,Business,1,101,Standard,2500.0,2026-01-05,2026-01-08,3,2,Website,Completed,UPI,Paid,7500.0,5,5,5,2026,1,January,Monday
+15,15,Pradeep S,Male,40,Bangalore,Business,1,101,Standard,2500.0,2026-02-12,2026-02-16,4,2,Website,Completed,Net Banking,Paid,10000.0,5,5,5,2026,2,February,Thursday
+32,32,Kavya Nair,Female,27,Kochi,Leisure,2,102,Standard,2500.0,2026-04-03,2026-04-06,3,2,MakeMyTrip,Completed,Credit Card,Paid,7500.0,4,4,4,2026,4,April,Friday
+46,46,Nisha R,Female,30,Bangalore,Leisure,2,102,Standard,2500.0,2026-05-12,2026-05-15,3,2,Website,Completed,UPI,Paid,7500.0,4,4,4,2026,5,May,Tuesday
+7,7,Karthik S,Male,26,Madurai,Business,3,103,Standard,2500.0,2026-01-20,2026-01-23,3,1,Walk-in,Completed,Credit Card,Paid,7500.0,4,4,4,2026,1,January,Tuesday
+21,21,Ajay Kumar,Male,37,Hyderabad,Business,3,103,Standard,2500.0,2026-03-02,2026-03-05,3,1,Website,Completed,UPI,Paid,7500.0,4,4,4,2026,3,March,Monday
+35,35,Sathish Kumar,Male,36,Hyderabad,Business,3,103,Standard,2500.0,2026-04-10,2026-04-13,3,1,Walk-in,Completed,Net Banking,Paid,7500.0,4,4,4,2026,4,April,Friday
+10,10,Meena Devi,Female,29,Chennai,Leisure,4,104,Standard,2500.0,2026-01-27,2026-01-30,3,2,Website,Completed,Net Banking,Paid,7500.0,4,4,4,2026,1,January,Tuesday
+38,38,Reshma P,Female,31,Kochi,Leisure,4,104,Standard,2500.0,2026-04-18,2026-04-21,3,2,Website,Completed,Debit Card,Paid,7500.0,4,4,4,2026,4,April,Saturday
+27,27,Gokul M,Male,27,Bangalore,Business,5,105,Standard,2500.0,2026-03-18,2026-03-21,3,2,Walk-in,Completed,Credit Card,Paid,7500.0,4,4,4,2026,3,March,Wednesday
+41,41,Ganesh R,Male,34,Madurai,Business,5,105,Standard,2500.0,2026-05-01,2026-05-04,3,2,Website,Completed,UPI,Paid,7500.0,4,4,4,2026,5,May,Friday
+2,2,Priya Sharma,Female,32,Bangalore,Leisure,6,201,Deluxe,4000.0,2026-01-07,2026-01-10,3,2,Booking.com,Completed,Credit Card,Paid,12000.0,4,4,4,2026,1,January,Wednesday
+16,16,Aishwarya K,Female,28,Coimbatore,Leisure,6,201,Deluxe,4000.0,2026-02-15,2026-02-18,3,2,Walk-in,Completed,UPI,Paid,12000.0,4,4,4,2026,2,February,Sunday
+30,30,Shalini R,Female,32,Coimbatore,Leisure,6,201,Deluxe,4000.0,2026-03-25,2026-03-29,4,2,Website,Completed,Net Banking,Paid,16000.0,4,4,5,2026,3,March,Wednesday
+5,5,Vijay Kumar,Male,41,Chennai,Business,7,202,Deluxe,4000.0,2026-01-15,2026-01-18,3,2,Website,Completed,Net Banking,Paid,12000.0,4,4,5,2026,1,January,Thursday
+19,19,Surya Prakash,Male,29,Madurai,Business,7,202,Deluxe,4000.0,2026-02-22,2026-02-25,3,2,Booking.com,Completed,Cash,Paid,12000.0,4,4,4,2026,2,February,Sunday
+33,33,Ramesh B,Male,46,Bangalore,Business,7,202,Deluxe,4000.0,2026-04-05,2026-04-09,4,2,Booking.com,Completed,Debit Card,Paid,16000.0,5,5,5,2026,4,April,Sunday
+47,47,Dharun K,Male,35,Hyderabad,Business,7,202,Deluxe,4000.0,2026-05-15,2026-05-18,3,2,MakeMyTrip,Completed,Credit Card,Paid,12000.0,5,5,5,2026,5,May,Friday
+22,22,Nandhini S,Female,30,Bangalore,Leisure,8,203,Deluxe,4000.0,2026-03-04,2026-03-08,4,2,Booking.com,Completed,Credit Card,Paid,16000.0,5,5,5,2026,3,March,Wednesday
+36,36,Deepa M,Female,28,Madurai,Leisure,8,203,Deluxe,4000.0,2026-04-12,2026-04-15,3,2,Website,Completed,UPI,Paid,12000.0,5,5,5,2026,4,April,Sunday
+50,50,Roshini P,Female,25,Chennai,Leisure,8,203,Deluxe,4000.0,2026-05-22,2026-05-25,3,2,Website,Completed,Net Banking,Paid,12000.0,4,4,5,2026,5,May,Friday
+25,25,Mohan Das,Male,39,Chennai,Business,9,204,Deluxe,4000.0,2026-03-12,2026-03-16,4,3,Website,Completed,Net Banking,Paid,16000.0,4,4,4,2026,3,March,Thursday
+14,14,Keerthana R,Female,25,Chennai,Leisure,10,205,Deluxe,4000.0,2026-02-10,2026-02-13,3,2,Booking.com,Completed,Cash,Paid,12000.0,4,4,4,2026,2,February,Tuesday
+28,28,Janani S,Female,29,Hyderabad,Leisure,10,205,Deluxe,4000.0,2026-03-20,2026-03-23,3,2,Website,Completed,Debit Card,Paid,12000.0,5,5,5,2026,3,March,Friday
+42,42,Bhavana S,Female,29,Hyderabad,Leisure,10,205,Deluxe,4000.0,2026-05-03,2026-05-06,3,2,Booking.com,Completed,Credit Card,Paid,12000.0,5,5,5,2026,5,May,Sunday
+3,3,Rahul Raj,Male,35,Coimbatore,Business,11,301,Suite,6500.0,2026-01-10,2026-01-14,4,3,Website,Completed,Debit Card,Paid,26000.0,5,5,4,2026,1,January,Saturday
+31,31,Vasanth K,Male,31,Madurai,Business,11,301,Suite,6500.0,2026-04-01,2026-04-04,3,3,Website,Completed,UPI,Paid,19500.0,5,5,5,2026,4,April,Wednesday
+6,6,Divya Mohan,Female,30,Kochi,Leisure,12,302,Suite,6500.0,2026-01-18,2026-01-22,4,4,Booking.com,Completed,UPI,Paid,26000.0,5,5,5,2026,1,January,Sunday
+20,20,Harini M,Female,26,Chennai,Leisure,12,302,Suite,6500.0,2026-02-25,2026-03-01,4,3,Website,Completed,Net Banking,Paid,26000.0,5,5,4,2026,2,February,Wednesday
+48,48,Maya S,Female,27,Madurai,Leisure,12,302,Suite,6500.0,2026-05-18,2026-05-22,4,4,Website,Completed,Debit Card,Paid,26000.0,5,5,5,2026,5,May,Monday
+9,9,Suresh Babu,Male,45,Bangalore,Business,13,303,Suite,6500.0,2026-01-25,2026-01-29,4,3,Booking.com,Completed,Cash,Paid,26000.0,5,5,5,2026,1,January,Sunday
+37,37,Vignesh R,Male,30,Coimbatore,Business,13,303,Suite,6500.0,2026-04-15,2026-04-19,4,3,Booking.com,Completed,Credit Card,Paid,26000.0,5,5,4,2026,4,April,Wednesday
+12,12,Lakshmi Priya,Female,31,Madurai,Leisure,14,304,Suite,6500.0,2026-02-04,2026-02-08,4,4,MakeMyTrip,Completed,Credit Card,Paid,26000.0,4,4,5,2026,2,February,Wednesday
+26,26,Ramya Krishnan,Female,35,Kochi,Leisure,15,305,Suite,6500.0,2026-03-15,2026-03-19,4,4,Booking.com,Completed,UPI,Paid,26000.0,5,5,5,2026,3,March,Sunday
+11,11,Ravi Shankar,Male,38,Coimbatore,Business,16,401,Executive,8000.0,2026-02-02,2026-02-05,3,3,Website,Completed,UPI,Paid,24000.0,5,5,5,2026,2,February,Monday
+43,43,Hari Prasad,Male,39,Coimbatore,Business,16,401,Executive,8000.0,2026-05-05,2026-05-08,3,2,Walk-in,Completed,Debit Card,Paid,24000.0,5,4,5,2026,5,May,Tuesday
+17,17,Naveen Raj,Male,36,Kochi,Business,17,402,Executive,8000.0,2026-02-18,2026-02-22,4,4,Website,Completed,Credit Card,Paid,32000.0,5,5,5,2026,2,February,Wednesday
+45,45,Sanjay M,Male,28,Chennai,Business,17,402,Executive,8000.0,2026-05-10,2026-05-14,4,3,Booking.com,Completed,Net Banking,Paid,32000.0,5,5,5,2026,5,May,Sunday
+23,23,Deepak R,Male,43,Coimbatore,Business,18,403,Executive,8000.0,2026-03-07,2026-03-10,3,3,Website,Completed,Debit Card,Paid,24000.0,5,5,5,2026,3,March,Saturday
+40,40,Swathi K,Female,26,Bangalore,Leisure,20,405,Executive,8000.0,2026-04-23,2026-04-27,4,4,Website,Completed,Net Banking,Paid,32000.0,5,5,5,2026,4,April,Thursday
